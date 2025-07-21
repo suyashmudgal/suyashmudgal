@@ -76,7 +76,7 @@ Improving skills in **Data Structures & Algorithms (DSA)** using **C++** to buil
   <a href="mailto:suyashmudgal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/suyashmudgal">
+  <a href="https://www.linkedin.com/in/suyash-mudgal-a7446028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
