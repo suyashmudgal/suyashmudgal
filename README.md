@@ -1,92 +1,166 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00FFFF;">Suyash Mudgal</span></h1>
-<h3 align="center">🌌 Data Science Explorer | 🐍 Python Enthusiast | ⚙️ Workflow Automator | 🎤 Singer & 🏏 Cricketer</h3>
+<!-- 🚀 SUYASH MUDGAL – NEW ERA PROFILE -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6EFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%8C%8C;Passionate+Python+Developer+%F0%9F%94%A5;Learning+n8n+Workflow+Automation+%E2%9A%99%EF%B8%8F;Mastering+C%2B%2B+and+DSA+Skills+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Suyash%20Mudgal&fontSize=62&fontColor=fff&color=0:0f172a,100:4c1d95&animation=twinkling&stroke=22D3EE&strokeWidth=2" width="100%"/>
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1600&pause=500&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=950&height=60&lines=Turning+Data+into+Systems;Engineer+%7C+Coder+%7C+Builder;Automation+Explorer;Data+Science+%26+DSA+Learner" />
+</div>
 
-### 🔥 About Me:
-
-- 🌱 Currently diving into **Python**, **Data Science**, and **Workflow Automation (n8n)**
-- 🧠 Actively improving my **DSA C++** and **problem-solving skills**
-- 💬 Ask me about: `Python`, `VS Code`, `GitHub`, `Automation`, `DBMS`, and `OOPs`
-- 🎤 I'm also a passionate **singer** and a dedicated **cricketer** 🏏🎶
-- 📈 On a mission to turn **data into impact** 🚀
-
----
-
-### 🛠️ Tools, Tech & Languages:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,vscode,mysql,linux,html,css,numpy,pandas,sqlite" alt="My Skills"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-DVN%20Club%20President-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=suyashmudgal&label=PROFILE%20VIEWS&color=22c55e&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Science%20%7C%20DSA-0ea5e9?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
 ---
 
-### 📊 GitHub Highlights:
+## 🌌 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashmudgal&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashmudgal&theme=radical&hide_border=true" width="47%" />
-</p>
+<img align="right" width="360" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyashmudgal&theme=radical" width="90%" />
-</p>
+Hi, I'm **Suyash**, a creative engineer who believes:
 
----
+> **"Code should solve, data should speak, automation should scale."**
 
-### 💡 DSA & Problem Solving Progress 🚀
+My journey revolves around building intelligent systems while strengthening problem-solving foundations.
 
-Improving skills in **Data Structures & Algorithms (DSA)** using **C++** to build efficient logic and ace technical interviews. Focused on mastering the following core areas:
+### ⚡ My Core Domains:
+- 🐍 **Python & Data Science**
+- 🧠 **DSA with C++**
+- 🤖 **n8n Workflow Automation**
+- 🌐 **Full-Stack App Development**
+- 🎤 **Singer**
+- 🏏 **Cricketer**
 
-📌 **DSA Topics I’m Working On:**
-- Arrays, Strings, Searching, Sorting
-- Recursion & Backtracking
-- Linked Lists & Stacks
-- Queues, Trees & Binary Trees
-- Binary Search Trees & Heaps
-- Hashing & Sliding Window
-- Graphs & Dynamic Programming
+### 🌱 Currently Learning:
+- Data pipelines & analysis
+- ML model evaluation & reliability
+- Workflow automation with n8n
+- Scalable backend architectures
 
-📘 **Practice Platforms:**
-- 🔗 [LeetCode](https://leetcode.com)
-- 🔗 [Coding Ninjas](https://www.codingninjas.com)
-- 🧠 Goal: Solve 300+ problems to improve accuracy, logic-building, and interview readiness.
+### 💬 Ask Me About:
+`Python • C++ • Automation • Backend APIs • DBMS • Logic Building`
 
-🎯 **Desired Outcome:**
-> Strengthen algorithmic thinking, improve coding speed, and crack top company coding rounds with confidence.
+<br clear="right"/>
 
 ---
 
-### ✨ Cool Dev Quote
+## 🧰 **Tech/Tools Arsenal**
 
-> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+<div align="center">
 
----
+### 👨‍💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js"/>
 
-### 🤝 Let's Connect!
+### 🧠 ML & Data Stack
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter,opencv,matplotlib"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suyashmudgal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:suyashmudgal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suyash-mudgal-a7446028b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+### 🛠️ DevOps & Work
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,nodejs,react,django,flask,mysql,sqlite,bootstrap,tailwind"/>
+
+</div>
 
 ---
 
-### 🧠 Motto I Live By:
+## 🚀 **Systems I’ve Built / Building**
 
-> 💡 *"Code with Passion. Learn with Curiosity. Grow with Consistency."*
+### 🎓 Exam Question Prediction System
+A smart academic AI system that:
+- Accepts **PDF or scanned question papers**
+- Extracts structured questions using OCR/NLP
+- Predicts future probable questions/topics
+- Generates new questions only from existing training patterns
+- No GPT question generation for predictions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Suyash%20Mudgal-blueviolet?style=flat-square" />
-</p>
+---
+
+### 📊 Student Performance Analytics
+A real intelligence platform that:
+- Processes student data using **NumPy + DBMS**
+- Shows weak subjects/topics
+- Generates performance trends & accuracy reports
+
+---
+
+### 📄 AI PDF Analyzer
+A backend utility to:
+- Read and analyze real or scanned PDFs
+- Extract questions, topics, tables, structured text
+
+---
+
+### 🤖 Automation Workflows (n8n)
+Working on:
+- Connecting PDF → ML → Database workflows
+- Building multi-app automation pipelines
+
+---
+
+## 🏅 **Certifications**
+
+| Certificate | Provider | Status |
+|---|---|---|
+| **Google AI/ML Internship Certificate** | Google / Eduskills | ✅ Completed |
+| **Python Full-Stack Developer** | Eduskills / AICTE | ✅ Completed |
+| **Alteryx Data Analytics Internship** | Alteryx | ✅ Completed |
+| **DSA + ML Research Path** | Self-Driven | ⚡ In Progress |
+
+---
+
+## 📈 **GitHub Live Tracking**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suyashmudgal&show_icons=true&theme=midnight-purple&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suyashmudgal&theme=midnight-purple&hide_border=true" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyashmudgal&theme=midnight_purple" width="94%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suyashmudgal&theme=tokyo-night&area=true&hide_border=true&height=340" width="94%"/>
+
+</div>
+
+---
+
+## 🎯 **Goals Ahead**
+
+2026 vision:
+- 🚀 Publish flagship projects publicly
+- ⚡ Build strong coding round confidence
+- 🤝 Internship in AI/Data company
+- 🎤 Release something musical 🎶
+- 🏏 Continue cricket passion
+
+---
+
+## 🤝 **Connect With Me**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/suyashmudgal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Suyash%20Mudgal-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:suyashmudgal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-suyashmudgal%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/suyashmudgal">
+  <img src="https://img.shields.io/badge/GitHub-suyashmudgal-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 **Motto**
+
+<div align="center">
+
+> ✨ *"Learn Deep → Build Big → Automate Smart → Repeat"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,100:4c1d95&text=Thanks%20for%20visiting!%20💜&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
+
+</div>
